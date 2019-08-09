@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f38d546-698c-4e0d-8fe8-9c7dc911ef15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_cookbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_cookbook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/1_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1_数据结构和算法/1_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/4_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_迭代器与生成器/4_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_迭代器与生成器/4_8.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,12 +16,13 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_cookbook$3_15.coverage" NAME="3_15 Coverage Results" MODIFIED="1565318964308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_数字日期和时间" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_2.coverage" NAME="4_2 Coverage Results" MODIFIED="1565321089871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
-    <SUITE FILE_PATH="coverage/python_cookbook$4_8.coverage" NAME="4_8 Coverage Results" MODIFIED="1565332924435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/python_cookbook$4_8.coverage" NAME="4_8 Coverage Results" MODIFIED="1565333738562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$1_3.coverage" NAME="1_3 Coverage Results" MODIFIED="1565320670843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_数据结构和算法" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_7.coverage" NAME="4_7 Coverage Results" MODIFIED="1565331984803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_1.coverage" NAME="4_1 Coverage Results" MODIFIED="1565328785004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_3.coverage" NAME="4_3 Coverage Results" MODIFIED="1565321813187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_5.coverage" NAME="4_5 Coverage Results" MODIFIED="1565329139051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
+    <SUITE FILE_PATH="coverage/python_cookbook$4_9.coverage" NAME="4_9 Coverage Results" MODIFIED="1565334323488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$3_16.coverage" NAME="3_16 Coverage Results" MODIFIED="1565319995524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_数字日期和时间" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_6.coverage" NAME="4_6 Coverage Results" MODIFIED="1565331245058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_4.coverage" NAME="4_4 Coverage Results" MODIFIED="1565322968716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
@@ -61,11 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4_8.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4_8.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="268">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4_9.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -106,6 +110,7 @@
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_7.py" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_8.txt" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_8.py" />
+        <option value="$PROJECT_DIR$/4_迭代器与生成器/4_9.py" />
       </list>
     </option>
   </component>
@@ -173,26 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_8">
-    <configuration name="4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_cookbook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_迭代器与生成器" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_迭代器与生成器/4_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.4_9">
     <configuration name="4_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,20 +255,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="4_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_迭代器与生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_迭代器与生成器/4_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.4_5" />
-      <item itemvalue="Python.4_1" />
       <item itemvalue="Python.4_6" />
       <item itemvalue="Python.4_7" />
       <item itemvalue="Python.4_8" />
+      <item itemvalue="Python.4_9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4_9" />
         <item itemvalue="Python.4_8" />
         <item itemvalue="Python.4_7" />
         <item itemvalue="Python.4_6" />
         <item itemvalue="Python.4_5" />
-        <item itemvalue="Python.4_1" />
       </list>
     </recent_temporary>
   </component>
@@ -301,15 +306,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32944608" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15522175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15522175" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -444,8 +450,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="268">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
