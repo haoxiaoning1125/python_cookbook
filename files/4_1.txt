@@ -1,0 +1,9 @@
+/Users/haoxiaoning/PycharmProjects/SQLAlchemyTest/venv/bin/python /Users/haoxiaoning/PycharmProjects/python_cookbook/3_数字日期和时间/3_16.py
+d: 2012-12-21 09:30:00
+loc_d: 2012-12-21 09:30:00-06:00
+bang_d: 2012-12-21 21:00:00+05:30
+('loc_d: ', datetime.datetime(2012, 12, 21, 9, 30, tzinfo=<DstTzInfo 'US/Central' CST-1 day, 18:00:00 STD>))
+('utc_d: ', datetime.datetime(2012, 12, 21, 15, 30, tzinfo=<UTC>))
+('later_utc: ', datetime.datetime(2012, 12, 21, 10, 0, tzinfo=<DstTzInfo 'US/Central' CST-1 day, 18:00:00 STD>))
+
+Process finished with exit code 0
