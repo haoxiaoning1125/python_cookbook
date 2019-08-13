@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f38d546-698c-4e0d-8fe8-9c7dc911ef15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_类与对象/8_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_类与对象/8_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_类与对象/8_24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_元编程/9_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/9_元编程/9_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_类与对象/8_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_类与对象/8_22.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,6 +40,7 @@
     <SUITE FILE_PATH="coverage/python_cookbook$4_11.coverage" NAME="4_11 Coverage Results" MODIFIED="1565349004352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$7_2.coverage" NAME="7_2 Coverage Results" MODIFIED="1565418111004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_函数" />
     <SUITE FILE_PATH="coverage/python_cookbook$7_5.coverage" NAME="7_5 Coverage Results" MODIFIED="1565418875953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_函数" />
+    <SUITE FILE_PATH="coverage/python_cookbook$8_23.coverage" NAME="8_23 Coverage Results" MODIFIED="1565675175575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
     <SUITE FILE_PATH="coverage/python_cookbook$3_16.coverage" NAME="3_16 Coverage Results" MODIFIED="1565319995524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_数字日期和时间" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_8.coverage" NAME="8_8 Coverage Results" MODIFIED="1565600952269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
     <SUITE FILE_PATH="coverage/python_cookbook$9_4.coverage" NAME="9_4 Coverage Results" MODIFIED="1565610622837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_元编程" />
@@ -61,6 +54,7 @@
     <SUITE FILE_PATH="coverage/python_cookbook$7_8.coverage" NAME="7_8 Coverage Results" MODIFIED="1565589735717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_函数" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_6.coverage" NAME="8_6 Coverage Results" MODIFIED="1565597588581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_9.coverage" NAME="8_9 Coverage Results" MODIFIED="1565602452763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
+    <SUITE FILE_PATH="coverage/python_cookbook$8_24.coverage" NAME="8_24 Coverage Results" MODIFIED="1565675888430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_6.coverage" NAME="4_6 Coverage Results" MODIFIED="1565331245058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_15.coverage" NAME="8_15 Coverage Results" MODIFIED="1565662808041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
   </component>
@@ -87,11 +81,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8_22.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="8_22.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8_类与对象/8_22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="378">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8_23.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_类与对象/8_23.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8_24.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8_类与对象/8_24.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -111,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4_迭代器与生成器/4_4.py" />
-        <option value="$PROJECT_DIR$/4_迭代器与生成器/4_1.py" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_5.py" />
         <option value="$PROJECT_DIR$/files/4_6.txt" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_6.py" />
@@ -162,6 +172,8 @@
         <option value="$PROJECT_DIR$/8_类与对象/8_20.py" />
         <option value="$PROJECT_DIR$/8_类与对象/8_21.py" />
         <option value="$PROJECT_DIR$/8_类与对象/8_22.py" />
+        <option value="$PROJECT_DIR$/8_类与对象/8_23.py" />
+        <option value="$PROJECT_DIR$/8_类与对象/8_24.py" />
       </list>
     </option>
   </component>
@@ -229,45 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8_21">
-    <configuration name="8_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_cookbook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="8_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_cookbook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.8_24">
     <configuration name="8_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,20 +299,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="8_23" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="8_24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.8_16" />
-      <item itemvalue="Python.8_17" />
       <item itemvalue="Python.8_18" />
       <item itemvalue="Python.8_20" />
       <item itemvalue="Python.8_21" />
+      <item itemvalue="Python.8_23" />
+      <item itemvalue="Python.8_24" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8_24" />
+        <item itemvalue="Python.8_23" />
         <item itemvalue="Python.8_21" />
         <item itemvalue="Python.8_20" />
         <item itemvalue="Python.8_18" />
-        <item itemvalue="Python.8_17" />
-        <item itemvalue="Python.8_16" />
       </list>
     </recent_temporary>
   </component>
@@ -362,11 +374,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36588922" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36588922" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -394,10 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/files/4_1.txt" />
-    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_6.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_数据结构和算法/1_3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -725,8 +733,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8_类与对象/8_22.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="378">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_类与对象/8_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_类与对象/8_24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
