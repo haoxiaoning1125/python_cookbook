@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f38d546-698c-4e0d-8fe8-9c7dc911ef15" name="Default" comment="" />
+    <list default="true" id="4f38d546-698c-4e0d-8fe8-9c7dc911ef15" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/11_网络与web编程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_并发编程/12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_并发编程/12_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_并发编程/12_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_并发编程/12_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_并发编程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +34,13 @@
     <SUITE FILE_PATH="coverage/python_cookbook$7_1.coverage" NAME="7_1 Coverage Results" MODIFIED="1565417672792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_函数" />
     <SUITE FILE_PATH="coverage/python_cookbook$9_3.coverage" NAME="9_3 Coverage Results" MODIFIED="1565609910883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_元编程" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_20.coverage" NAME="8_20 Coverage Results" MODIFIED="1565666854951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
+    <SUITE FILE_PATH="coverage/python_cookbook$12_1.coverage" NAME="12_1 Coverage Results" MODIFIED="1565679601014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_2.coverage" NAME="8_2 Coverage Results" MODIFIED="1565593190627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_2.coverage" NAME="4_2 Coverage Results" MODIFIED="1565321089871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_8.coverage" NAME="4_8 Coverage Results" MODIFIED="1565333738562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_17.coverage" NAME="8_17 Coverage Results" MODIFIED="1565664068582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
+    <SUITE FILE_PATH="coverage/python_cookbook$12_2.coverage" NAME="12_2 Coverage Results" MODIFIED="1565680177062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
+    <SUITE FILE_PATH="coverage/python_cookbook$12_2_1.coverage" NAME="12_2_1 Coverage Results" MODIFIED="1565681121514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_5.coverage" NAME="4_5 Coverage Results" MODIFIED="1565329139051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_14.coverage" NAME="8_14 Coverage Results" MODIFIED="1565612974475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_11.coverage" NAME="4_11 Coverage Results" MODIFIED="1565349004352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
@@ -54,65 +65,7 @@
     <SUITE FILE_PATH="coverage/python_cookbook$8_15.coverage" NAME="8_15 Coverage Results" MODIFIED="1565662808041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="8_20.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_类与对象/8_20.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#37#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_21.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_类与对象/8_21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_22.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_类与对象/8_22.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_23.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_类与对象/8_23.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_24.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8_类与对象/8_24.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1151">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_25.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_类与对象/8_25.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,10 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files/4_6.txt" />
-        <option value="$PROJECT_DIR$/4_迭代器与生成器/4_6.py" />
-        <option value="$PROJECT_DIR$/4_迭代器与生成器/4_7.py" />
-        <option value="$PROJECT_DIR$/4_迭代器与生成器/4_8.txt" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_8.py" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_9.py" />
         <option value="$PROJECT_DIR$/4_迭代器与生成器/4_10.py" />
@@ -178,6 +127,10 @@
         <option value="$PROJECT_DIR$/8_类与对象/8_23.py" />
         <option value="$PROJECT_DIR$/8_类与对象/8_24.py" />
         <option value="$PROJECT_DIR$/8_类与对象/8_25.py" />
+        <option value="$PROJECT_DIR$/12_并发编程/12_1.py" />
+        <option value="$PROJECT_DIR$/12_并发编程/12_2.py" />
+        <option value="$PROJECT_DIR$/12_并发编程/12_2_1.py" />
+        <option value="$PROJECT_DIR$/12_并发编程/12_3.py" />
       </list>
     </option>
   </component>
@@ -212,7 +165,7 @@
             <path>
               <item name="python_cookbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_cookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="8_类与对象" type="462c0819:PsiDirectoryNode" />
+              <item name="12_并发编程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8_24">
-    <configuration name="8_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12_2_1">
+    <configuration name="12_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,18 +207,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_并发编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_并发编程/12_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="8_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,18 +226,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_并发编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_并发编程/12_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="8_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,12 +245,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_并发编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_类与对象/8_21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_并发编程/12_2_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,19 +295,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.8_18" />
-      <item itemvalue="Python.8_20" />
-      <item itemvalue="Python.8_21" />
       <item itemvalue="Python.8_23" />
       <item itemvalue="Python.8_24" />
+      <item itemvalue="Python.12_1" />
+      <item itemvalue="Python.12_2" />
+      <item itemvalue="Python.12_2_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12_2_1" />
+        <item itemvalue="Python.12_2" />
+        <item itemvalue="Python.12_1" />
         <item itemvalue="Python.8_24" />
         <item itemvalue="Python.8_23" />
-        <item itemvalue="Python.8_21" />
-        <item itemvalue="Python.8_20" />
-        <item itemvalue="Python.8_18" />
       </list>
     </recent_temporary>
   </component>
@@ -373,12 +326,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36588922" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23760933" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -410,37 +362,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_8.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_迭代器与生成器/4_9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
@@ -757,6 +678,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1151">
           <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="809" selection-start-line="809" selection-end-line="809" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_并发编程/12_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_并发编程/12_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1079">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#32#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_并发编程/12_2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+          <folding>
+            <element signature="e#16#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_并发编程/12_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#31#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
