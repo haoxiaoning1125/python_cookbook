@@ -36,4 +36,4 @@ class PollableQueue(Queue.Queue):
 
 
 if __name__ == '__main__':
-    pass
+    print 1 + True

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f38d546-698c-4e0d-8fe8-9c7dc911ef15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_并发编程/12_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_并发编程/12_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_并发编程/12_13.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,6 +49,7 @@
     <SUITE FILE_PATH="coverage/python_cookbook$1_3.coverage" NAME="1_3 Coverage Results" MODIFIED="1565320670843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_数据结构和算法" />
     <SUITE FILE_PATH="coverage/python_cookbook$12_9.coverage" NAME="12_9 Coverage Results" MODIFIED="1565687206731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
     <SUITE FILE_PATH="coverage/python_cookbook$12_6.coverage" NAME="12_6 Coverage Results" MODIFIED="1565685667840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
+    <SUITE FILE_PATH="coverage/python_cookbook$12_13.coverage" NAME="12_13 Coverage Results" MODIFIED="1565924339187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
     <SUITE FILE_PATH="coverage/python_cookbook$12_2.coverage" NAME="12_2 Coverage Results" MODIFIED="1565680177062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_并发编程" />
     <SUITE FILE_PATH="coverage/python_cookbook$4_5.coverage" NAME="4_5 Coverage Results" MODIFIED="1565329139051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_cookbook$8_14.coverage" NAME="8_14 Coverage Results" MODIFIED="1565612974475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
@@ -71,7 +65,17 @@
     <SUITE FILE_PATH="coverage/python_cookbook$8_15.coverage" NAME="8_15 Coverage Results" MODIFIED="1565662808041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_类与对象" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="12_13.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12_并发编程/12_13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -160,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,6 +180,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12_12">
+  <component name="RunManager" selected="Python.12_13">
     <configuration name="12_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,7 +228,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="12_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +241,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_并发编程/12_2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_并发编程/12_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +305,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.12_2_1" />
       <item itemvalue="Python.12_4" />
       <item itemvalue="Python.12_6" />
       <item itemvalue="Python.12_9" />
       <item itemvalue="Python.12_12" />
+      <item itemvalue="Python.12_13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12_13" />
         <item itemvalue="Python.12_12" />
         <item itemvalue="Python.12_9" />
         <item itemvalue="Python.12_6" />
         <item itemvalue="Python.12_4" />
-        <item itemvalue="Python.12_2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -336,17 +340,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3586006" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3586006" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -355,6 +359,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3586006" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32944608" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -364,7 +391,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -596,9 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#37#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1079">
           <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#32#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#31#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,9 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1043">
           <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-          <folding>
-            <element signature="e#16#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,9 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <element signature="e#27#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#35#82#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,9 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-489">
           <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="e#29#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,20 +738,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12_并发编程/12_13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#34#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12_并发编程/12_10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_并发编程/12_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
     </entry>
